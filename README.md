@@ -42,8 +42,8 @@ Scikit-learn
 Google Colab
 Jupyter Notebook
 Project Files
-Disease_Prediction_Clean.ipynb — Notebook containing the data preparation, feature selection, model training, and evaluation workflow.
-Disease_Prediction_Report_Combined.docx — Detailed project report documenting the methodology and analysis.
+Disease_Prediction_Clean (1).ipynb — Notebook containing the data preparation, feature selection, model training, and evaluation workflow.
+Disease Prediction Report.docx — Detailed project report documenting the methodology and analysis.
 Important Limitation
 This project is an academic machine learning experiment, not a clinically validated diagnostic system. The dataset contains substantial duplication and highly structured symptom patterns. Therefore, evaluation results should be interpreted cautiously and should not be considered evidence of real-world medical diagnostic accuracy.
 Future Improvements
