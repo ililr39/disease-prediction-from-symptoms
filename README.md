@@ -47,6 +47,11 @@ Disease_Prediction_Report_Combined.docx — Detailed project report documenting 
 Important Limitation
 This project is an academic machine learning experiment, not a clinically validated diagnostic system. The dataset contains substantial duplication and highly structured symptom patterns. Therefore, evaluation results should be interpreted cautiously and should not be considered evidence of real-world medical diagnostic accuracy.
 Future Improvements
+Dataset Source and License
+
+The dataset was obtained from Disease Symptom Prediction on Kaggle.
+
+The dataset page specifies the CC BY-SA 4.0 license. Please refer to the original source and license terms for attribution and redistribution requirements.
 Evaluate the models on larger and more diverse datasets.
 Test generalization using independent patient data.
 Improve the reliability and clinical relevance of the prediction process.
